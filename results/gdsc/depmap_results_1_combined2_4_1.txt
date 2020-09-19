@@ -1,0 +1,3 @@
+(5Z)-7-Oxozeaenol	4	1.0	0.01	0.5	p	z
+	selected_pos_muts	selected_neg_muts	TotCost	time	selected_pos_values	selected_neg_values	pv
+	TP53_mut	BRAF_mut,NRAS_mut,CAMK2D_mut	153.356519	242.510000	1.0	1.0,1.0,1.0	0.009901

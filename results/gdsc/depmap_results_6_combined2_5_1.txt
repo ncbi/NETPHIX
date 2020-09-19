@@ -1,0 +1,4 @@
+Afatinib (1)	5	1.0	0.01	0.5	p	z
+	selected_pos_muts	selected_neg_muts	TotCost	time	selected_pos_values	selected_neg_values	pv
+	KRAS_mut,NRAS_mut	EGFR_amp,ERBB2_amp,FOXP3_del	112.148332	260.090000	1.0,1.0	1.0,1.0,1.0	0.009901
+	KRAS_mut,NRAS_mut	EGFR_amp,ERBB2_amp,FOXP3_del	112.148332	412.850000	1.0,1.0	1.0,1.0,1.0	0.009901

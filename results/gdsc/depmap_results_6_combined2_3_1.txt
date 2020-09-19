@@ -1,0 +1,3 @@
+Afatinib (1)	3	1.0	0.01	0.5	p	z
+	selected_pos_muts	selected_neg_muts	TotCost	time	selected_pos_values	selected_neg_values	pv
+	RB1_mut	EGFR_amp,ERBB2_amp	90.962402	224.660000	1.0	1.0,1.0	0.009901

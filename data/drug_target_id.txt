@@ -1,0 +1,266 @@
+id	drug	CTRP	CORR
+1	(5Z)-7-Oxozeaenol	NO	False
+2	5-Fluorouracil	NO	False
+3	681640	NO	False
+4	A-443654	NO	False
+5	A-770041	NO	False
+6	Afatinib (1)	YES	True
+7	Afatinib (2)	YES	True
+8	AICA Ribonucleotide	NO	False
+9	AKT inhibitor VIII (1)	NO	False
+10	AKT inhibitor VIII (2)	NO	False
+11	Alectinib	NO	False
+12	Amuvatinib	NO	False
+13	AR-42	NO	False
+14	AS601245	NO	False
+15	AS605240	NO	False
+16	AT-7519	NO	False
+17	Avagacestat (1)	NO	False
+18	Avagacestat (2)	NO	False
+19	Axitinib	YES	True
+20	AZ628	NO	False
+21	AZD6482 (1)	YES	True
+22	AZD6482 (2)	YES	True
+23	AZD7762	YES	True
+24	AZD8055	YES	True
+25	BAY-61-3606	NO	False
+26	Belinostat	NO	False
+27	Bexarotene	YES	False
+28	BI-2536	YES	False
+29	Bicalutamide (1)	NO	False
+30	Bicalutamide (2)	NO	False
+31	BIX02189	NO	False
+32	Bleomycin	YES	False
+33	Bleomycin (50 uM)	NO	False
+34	BMS-345541	YES	True
+35	BMS-509744	NO	False
+36	BMS-536924 (1)	YES	True
+37	BMS-536924 (2)	YES	True
+38	BMS-754807	YES	True
+39	Bortezomib	YES	False
+40	Bosutinib	YES	True
+41	Bryostatin 1	NO	False
+42	BX-912	NO	False
+43	BX796	NO	False
+44	Cabozantinib	NO	False
+45	Camptothecin	NO	False
+46	CAY10603	NO	False
+47	CCT-018159	NO	False
+48	CCT007093	NO	False
+49	Cetuximab	NO	False
+50	CGP-082996	NO	False
+51	CGP-60474	NO	False
+52	CHIR-99021 (1)	YES	False
+53	CHIR-99021 (2)	YES	True
+54	CI-1040	NO	False
+55	Cisplatin	NO	False
+56	CMK	NO	False
+57	CP466722	NO	False
+58	CP724714	NO	False
+59	Crizotinib	YES	False
+60	CUDC-101	NO	False
+61	CX-5461	NO	False
+62	Cyclopamine	NO	False
+63	Cytarabine	YES	False
+64	Dabrafenib	YES	True
+65	Dacinostat	NO	False
+66	Dactolisib	YES	False
+67	Daporinad	NO	False
+68	Dasatinib	YES	True
+69	DMOG	NO	False
+70	Docetaxel	YES	False
+71	Doramapimod	NO	False
+72	Doxorubicin	YES	False
+73	EHT-1864	NO	False
+74	Elesclomol	NO	False
+75	Embelin	NO	False
+76	Entinostat	NO	False
+77	Enzastaurin	NO	False
+78	Epothilone B	NO	False
+79	Erlotinib	YES	True
+80	Etoposide	YES	True
+81	Fedratinib	YES	True
+82	FH535	NO	False
+83	FMK	NO	False
+84	FR-180204	NO	False
+85	FTI-277	NO	False
+86	Gefitinib	YES	False
+87	Gemcitabine	YES	True
+88	Genentech Cpd 10	NO	False
+89	GNF-2	NO	False
+90	GSK1070916	NO	False
+91	GSK1904529A	NO	False
+92	GSK269962A (1)	NO	False
+93	GSK269962A (2)	NO	False
+94	GSK319347A	NO	False
+95	GSK429286A	NO	False
+96	GSK650394	NO	False
+97	GSK690693	NO	False
+98	GW-2580	NO	False
+99	GW441756	NO	False
+100	GW843682X	YES	True
+101	HG-5-113-01	NO	False
+102	HG-5-88-01	NO	False
+103	HG6-64-1	NO	False
+104	I-BET-762	NO	False
+105	Idelalisib	YES	True
+106	Imatinib	YES	False
+107	IOX2	NO	False
+108	IPA-3	NO	False
+109	Ispinesib Mesylate	NO	False
+110	JNK Inhibitor VIII	NO	False
+111	JNK-9L	NO	False
+112	JQ1 (1)	YES	False
+113	JQ1 (2)	YES	False
+114	JQ12	NO	False
+115	JW-7-24-1	NO	False
+116	JW-7-52-1	NO	False
+117	KIN001-236	NO	False
+118	KIN001-244	NO	False
+119	KIN001-260	NO	False
+120	KIN001-266	NO	False
+121	KIN001-270	NO	False
+122	KU-55933	YES	False
+123	Lapatinib	YES	False
+124	Lenalidomide	NO	False
+125	Lestauritinib	NO	False
+126	LFM-A13	NO	False
+127	Linifanib	NO	False
+128	Linsitinib	NO	False
+129	Luminespib	NO	False
+130	Masitinib	YES	False
+131	Methotrexate	YES	False
+132	MG-132	YES	False
+133	Midostaurin	NO	False
+134	Mitomycin-C	YES	True
+135	MK-2206	YES	True
+136	Motesanib	NO	False
+137	MPS-1-IN-1	NO	False
+138	Navitoclax	NO	False
+139	NG-25	NO	False
+140	Nilotinib	YES	False
+141	NPK76-II-72-1	NO	False
+142	NSC-207895	NO	False
+143	NSC-87877	NO	False
+144	NU7441	NO	False
+145	Nutlin-3a (-)	YES	True
+146	NVP-BHG712	NO	False
+147	NVP-TAE684	YES	True
+148	Obatoclax Mesylate	YES	True
+149	Olaparib (1)	YES	False
+150	Olaparib (2)	YES	False
+151	Omipalisib	NO	False
+152	OSI-027	YES	False
+153	OSI-930	YES	False
+154	OSU-03012	NO	False
+155	PAC-1	YES	False
+156	Paclitaxel	YES	False
+157	Palbociclib	NO	False
+158	Parthenolide	YES	False
+159	Pazopanib	YES	False
+160	PD0325901	NO	False
+161	PD173074	NO	False
+162	Pelitinib	NO	False
+163	Pevonedistat	NO	False
+164	PF-4708671	NO	False
+165	PF-562271	NO	False
+166	PFI-1	NO	False
+167	PHA-665752	NO	False
+168	PHA-793887	YES	True
+169	Phenformin	NO	False
+170	PI-103	YES	True
+171	Pictilisib (1)	YES	True
+172	Pictilisib (2)	YES	True
+173	PIK-93	YES	True
+174	Piperlongumine	YES	False
+175	PLX-4720 (1)	YES	True
+176	PLX-4720 (2)	YES	True
+177	Ponatinib	NO	False
+178	Pyrimethamine	NO	False
+179	QL-VIII-58	NO	False
+180	QL-X-138	NO	False
+181	QL-XI-92	NO	False
+182	QL-XII-47	NO	False
+183	QL-XII-61	NO	False
+184	QS11	YES	False
+185	Quizartinib	NO	False
+186	Rapamycin	NO	False
+187	Refametinib (1)	NO	False
+188	Refametinib (2)	NO	False
+189	RO-3306	NO	False
+190	rTRAIL	NO	False
+191	Rucaparib	NO	False
+192	Ruxolitinib	YES	False
+193	S-Trityl-L-cysteine	NO	False
+194	Salubrinal	NO	False
+195	Saracatinib	NO	False
+196	SB-505124	NO	False
+197	SB216763	NO	False
+198	SB52334	NO	False
+199	SB590885	NO	False
+200	Seliciclib	NO	False
+201	Selisistat	YES	False
+202	Selumetinib (1)	NO	False
+203	Selumetinib (2)	NO	False
+204	Sepantronium bromide	YES	True
+205	Serdemetan	YES	False
+206	SGC0946	NO	False
+207	Shikonin	NO	False
+208	SL0101	NO	False
+209	SN-38	YES	True
+210	SNX-2112	YES	True
+211	Sorafenib	YES	False
+212	STF-62247	NO	False
+213	Sunitinib	YES	True
+214	T0901317	NO	False
+215	TAK-715	NO	False
+216	Talazoparib	NO	False
+217	Tamoxifen	YES	False
+218	Tanespimycin	NO	False
+219	Temozolomide	YES	False
+220	Temsirolimus	YES	True
+221	TGX221	YES	True
+222	Thapsigargin	NO	False
+223	THZ-2-102-1	NO	False
+224	THZ-2-49	NO	False
+225	Tipifarnib	NO	False
+226	Tivozanib	NO	False
+227	TL-1-85	NO	False
+228	TL-2-105	NO	False
+229	Tozasertib	YES	True
+230	TPCA-1	YES	True
+231	Trametinib	YES	True
+232	Tretinoin	NO	False
+233	Tubastatin A	YES	True
+234	TW 37	YES	False
+235	UNC0638 (1)	YES	False
+236	UNC0638 (2)	YES	False
+237	UNC1215	NO	False
+238	Veliparib	NO	False
+239	Vinblastine	NO	False
+240	Vinorelbine	NO	False
+241	Vismodegib	NO	False
+242	VNLG/124	NO	False
+243	Vorinostat	YES	True
+244	VX-11e	NO	False
+245	VX-702	NO	False
+246	WH-4-023	NO	False
+247	WHI-P97	NO	False
+248	WIKI4	NO	False
+249	WZ-1-84	NO	False
+250	WZ3105	NO	False
+251	XAV939	NO	False
+252	XMD11-85h	NO	False
+253	XMD13-2	NO	False
+254	XMD14-99	NO	False
+255	XMD15-27	NO	False
+256	XMD8-85	NO	False
+257	XMD8-92	NO	False
+258	Y-39983	NO	False
+259	YK-4-279	YES	False
+260	YM201636	NO	False
+261	Z-LLNle-CHO	NO	False
+262	ZG-10	NO	False
+263	Zibotentan	NO	False
+264	ZM447439	NO	False
+265	ZSTK474	YES	False

@@ -1,0 +1,129 @@
+	drug	dec	inc
+0	(5Z)-7-Oxozeaenol		BRAF_mut,NRAS_mut,GOLGA8Q_mut
+1	5-Fluorouracil		ANKRD11_mut,MS4A6A_mut,FAM30A_del
+2	681640	HSD17B7_amp,KTN1_del,OR4C15_del	
+3	AICA Ribonucleotide		GOLGA8R_mut,PRSS2_del,FAM30A_del
+4	AKT inhibitor VIII (1)		PIK3CA_mut,ICA1_mut,GRB7_amp
+5	AKT inhibitor VIII (2)	AQP4_mut,MRPS27_amp,LRP1B_del	TLN1_mut,PRSS1_del,FAM30A_del
+6	AR-42	TRPC7_mut,IFNK_del,ZNF397_del	FAM160A2_mut,MYC_mut,NRAS_mut
+7	AS605240		BRAF_mut,KRAS_mut,NRAS_mut
+8	AT-7519		MYC_mut,OR12D2_mut,PRSS1_del
+9	AZ628	SMARCA4_mut,PDPR_mut,RB1_mut	
+10	AZD6482 (1)	LAMA1_mut,KNSTRN_mut,MYC_amp	PTEN_mut,TMC2_mut,ZNF705D_del
+11	AZD7762	MUC19_mut,GRB7_amp,LINC02363_del	
+12	AZD8055	GRIA1_mut,RB1_mut,MIR4778_amp	
+13	Afatinib (1)		KRT3_mut,OR5M10_mut,GRB7_amp
+14	Afatinib (2)		FUBP1_mut,STARD3_amp,ZNF516_del
+15	Avagacestat (2)	EIF2AK4_mut,ELAVL2_mut,PHIP_del	
+16	Axitinib	BRAF_mut,SPEF2_mut,C18orf63_del	
+17	BX-912	MYH3_mut,LRP1B_del,TNFRSF10D_del	
+18	BX796	ROS1_mut,FAM83B_mut,BMP1_del	
+19	Belinostat		FAM160A2_mut,MYC_mut,NRAS_mut
+20	Bleomycin (50 uM)	LAMA2_mut,C1orf35_mut,SPANXB1_del	
+21	CAY10603	GRIA1_mut,TMEM57_mut,C18orf63_del	FAM160A2_mut,MYC_mut,NRAS_mut
+22	CHIR-99021 (1)	C2CD3_mut,MT-ATP6_mut,ZNF160_mut	
+23	CHIR-99021 (2)	KMT2B_mut,ZDHHC11_amp,BHLHE40_del	
+24	CI-1040	ANXA6_mut,RB1_mut,MIEN1_amp	BRAF_mut,KRAS_mut,NRAS_mut
+25	CP466722		MYC_mut,GOLGA8R_mut,SEPT9_mut
+26	CP724714		EIF2AK2_mut,N6AMT1_mut,GRB7_amp
+27	CUDC-101		FAM160A2_mut,MYC_mut,NRAS_mut
+28	CX-5461		MS4A6A_mut,PDS5B_mut,FAM30A_del
+29	Camptothecin	OR4C15_mut,OR4C11_del,TRIML1_del	
+30	DMOG	THSD7B_mut,CENPT_mut,OR4P4_del	
+31	Dabrafenib	DDX60L_mut,RB1_mut,CDH19_del	BRAF_mut,CKAP2L_mut,RRP1_mut
+32	Dacinostat	KDR_mut,AMY2A_del,IFNK_del	
+33	Dactolisib	LRRC7_mut,NBPF20_mut,BNIP3L_del	
+34	Daporinad	WDFY4_mut,LIPI_del,PINX1_del	PDCD11_mut,CT45A6_mut,FAM30A_del
+35	Docetaxel	FRYL_mut,HSD17B7_amp,SNORD115-10_del	
+36	Elesclomol	GRM6_mut,SPHKAP_mut,TP73_del	
+37	Enzastaurin	GOLGA1_mut,MXD1_amp,SCAP_del	
+38	Fedratinib	TLL1_mut,MT-ND4L_mut,SMAD4_del	GOLGA8R_mut,MTRNR2L6_del,FAM30A_del
+39	GSK269962A (2)	CDKAL1_mut,LRRC7_mut,C18orf54_del	
+40	GSK429286A	PKHD1L1_mut,MIR650_del,SOCS6_del	
+41	GSK650394		CDHR2_mut,KCNJ14_mut,CASC8_amp
+42	GSK690693	BRAF_mut,ADNP2_del,OR4E2_del	PTEN_mut,FAM160A2_mut,PRB2_del
+43	Genentech Cpd 10	BRAF_mut,EIF4G2_mut,PARD6G-AS1_del	NSD3_mut,MINK1_del,PRSS1_del
+44	I-BET-762	SLC22A25_mut,SMAD4_del,LRP1B_del	MYC_mut,NRAS_mut,GOLGA8R_mut
+45	IPA-3		MYC_mut,ZNF292_mut,MTRNR2L6_del
+46	Idelalisib	NLRP8_mut,LRP1B_del,LINC02203_del	
+47	Ispinesib Mesylate		MROH7_mut,RABL2A_mut,FAM30A_del
+48	JQ1 (2)	NFASC_mut,WDR36_mut,ZDHHC11_amp	
+49	JW-7-24-1	EPHB2_mut,IGSF1_mut,KIAA1468_del	ITM2A_mut,VMO1_del,FAM30A_del
+50	KIN001-236		FCHSD1_mut,VMO1_del,ANKRD36BP2_del
+51	KIN001-260	ZNF469_mut,MPHOSPH9_mut,SMAD4_del	
+52	KIN001-270	COL5A3_mut,TUSC1_del,SMAD4_del	
+53	Lapatinib		PRICKLE1_mut,MRPS27_amp,FHIT_del
+54	Lenalidomide	DNAH8_mut,KRTAP10-1_mut,PDS5B_del	
+55	Lestauritinib	KDM3A_mut,IKZF3_amp,SMAD4_del	
+56	Linsitinib	SIGLEC1_mut,PTEN_mut,OPN1LW_del	
+57	Masitinib	PRB2_mut,SMAD4_del,LRP1B_del	
+58	Methotrexate	JCAD_mut,SMAD4_del,PPP2R2A_del	DLC1_mut,PRSS1_del,FAM30A_del
+59	Motesanib	MAGEC1_mut,GRIK3_mut,FAM30A_del	
+60	NG-25	MT-ND4L_mut,UNC79_mut,SMAD4_del	
+61	NPK76-II-72-1	MGAM_mut,NF2_mut,SMAD4_del	FAM160A2_mut,MTRNR2L6_del,MINK1_del
+62	NSC-207895	KRAS_mut,FERMT2_mut,FGF19_amp	
+63	NVP-BHG712	STARD9_mut,LRP1B_del,ARHGAP21_del	
+64	Navitoclax	PRRC2C_mut,STS_del,LRP1B_del	RB1_mut,MTRNR2L6_del,FAM30A_del
+65	Nutlin-3a (-)	RB1_mut,SMAD4_del,KDM6A_del	
+66	OSI-027	NLRP8_mut,KCNK10_mut,CCBE1_del	
+67	OSI-930	DSP_mut,CCBE1_del,DYNC2H1_del	
+68	Olaparib (1)	MUC17_mut,FZD8_mut,SMAD4_del	
+69	PD0325901	RB1_mut,PRSS3P2_del,FAM30A_del	BRAF_mut,KRAS_mut,NRAS_mut
+70	PD173074	EP300_mut,BTNL8_del,TNFRSF10A_del	
+71	PFI-1	SLIT3_mut,LRRTM4_mut,KIR2DS4_del	
+72	PHA-793887	TG_mut,BEND4_mut,IFNK_del	CCZ1B_mut,SLC17A7_mut,MINK1_del
+73	PI-103	OR5W2_mut,OR10G2_del,SMAD4_del	
+74	PIK-93	SSC5D_mut,LINC01539_del,DYNC2H1_del	SYMPK_mut,MTRNR2L6_del,FAM30A_del
+75	PLX-4720 (1)		BRAF_mut,HLA-DQB1_del,ATRX_del
+76	PLX-4720 (2)	EYS_mut,ARHGAP9_mut,CCBE1_del	BRAF_mut,CD244_mut,ARSB_mut
+77	Palbociclib	RB1_mut,GRB7_amp,RB1_del	AZU1_mut,KIAA1522_mut,MTAP_del
+78	Pazopanib	KRAS_mut,ABCA8_mut,FXYD6-FXYD2_del	
+79	Pictilisib (2)	HK3_mut,SPHKAP_mut,C11orf70_del	
+80	Piperlongumine	AKR1B15_mut,CNTNAP5_mut,ABI3_mut	
+81	QL-X-138	TG_mut,UNC45A_mut,LINC01541_del	
+82	QL-XI-92	ADGRA1_mut,MGAM_mut,CDH19_del	
+83	Refametinib (1)	RB1_mut,ERBB2_amp,FAM30A_del	BRAF_mut,KRAS_mut,NRAS_mut
+84	Refametinib (2)	RB1_mut,PRSS3P2_del,FAM30A_del	BRAF_mut,KRAS_mut,NRAS_mut
+85	Rucaparib	SGCD_mut,CNGB1_mut,PHIP_del	
+86	SB216763	RPTOR_mut,GRIN2A_mut,HSD17B7_amp	
+87	SB52334	NRP2_mut,CYB5A_del,OR4E2_del	
+88	SB590885		BRAF_mut,COPS7A_mut,SH3BGRL_del
+89	SN-38	ZNF804B_mut,GRB7_amp,DLEU2_del	
+90	SNX-2112		TLN1_mut,OTUD5_del,FAM30A_del
+91	STF-62247		TAF5_mut,IGLL5_del,KTN1_del
+92	Selisistat	DNAH17_mut,CBWD3_mut,GBE1_del	
+93	Selumetinib (1)		BRAF_mut,KRAS_mut,MIR4714_del
+94	Selumetinib (2)	RB1_mut,GRB7_amp,FAM30A_del	BRAF_mut,C19orf35_mut,KRAS_mut
+95	Serdemetan	TRPM2_mut,ZNF343_mut,MIR383_del	
+96	Shikonin	KLK2_mut,FSTL5_mut,MIR4665_del	
+97	Sunitinib	SETD2_mut,ARHGAP19_mut,RB1_mut	
+98	T0901317	DSP_mut,RIT2_del,DYNC2H1_del	DECR2_mut,CALHM3_mut,KTN1_del
+99	TAK-715		WDR63_mut,MYC_mut,VMO1_del
+100	TGX221		DOK6_mut,MRPS27_amp,MYOM2_del
+101	THZ-2-102-1		CEACAM16_mut,CASZ1_mut,FAM30A_del
+102	THZ-2-49	SSC5D_mut,RB1_mut,ANO1_amp	
+103	TL-1-85	KMT2C_mut,ZDHHC11_amp,SOCS6_del	
+104	TL-2-105	STARD9_mut,OR4N3P_del,LRP1B_del	
+105	TPCA-1		MS4A6A_mut,VPS11_mut,FAM30A_del
+106	TW 37	MT-CO3_mut,FAM69C_del,TOX3_del	TRRAP_mut,NTNG1_amp,MRPS27_amp
+107	Tanespimycin	POLA1_mut,RB1_mut,FAM30A_del	PIK3CA_mut,OR51F2_mut,LINGO2_del
+108	Temsirolimus	GRM6_mut,ITIH6_mut,RB1_mut	
+109	Trametinib	RB1_mut,PRSS3P2_del,FAM30A_del	BRAF_mut,KRAS_mut,NRAS_mut
+110	Tretinoin	MYO18B_mut,GAB2_mut,MC4R_del	
+111	Tubastatin A		MYC_mut,SLC22A16_mut,LPIN2_del
+112	UNC0638 (1)		PAPOLG_mut,AHRR_mut,FAM30A_del
+113	UNC0638 (1)	PIK3CA_mut,HSF2BP_del,ARHGAP6_del	
+114	VNLG/124		MS4A6A_mut,GOLGA8R_mut,FAM30A_del
+115	VX-11e		BRAF_mut,KRAS_mut,NRAS_mut
+116	VX-702	AHNAK2_mut,NEDD4L_del,C3orf38_del	
+117	Vorinostat	RP1_mut,GXYLT1_del,SMAD4_del	MS4A6A_mut,PRSS2_del,FAM30A_del
+118	WIKI4	KIAA1109_mut,GNAO1_mut,IKZF3_amp	
+119	WZ3105		GBX1_mut,MINK1_del,PRSS1_del
+120	XMD13-2		FAM160A2_mut,MINK1_del,PRSS1_del
+121	XMD14-99	COL4A3_mut,LRP1B_del,MGAM_del	
+122	XMD8-85		MYC_mut,PRPF8_mut,SLC18A2_mut
+123	Y-39983		FAM160A2_mut,MYC_mut,PRR5_mut
+124	YK-4-279	CNTNAP5_mut,ZDHHC23_mut,TRIT1_amp	
+125	YM201636		MCC_mut,ARHGAP29_mut,VMO1_del
+126	ZM447439		GPR179_mut,MS4A6A_mut,KLC2_mut
+127	ZSTK474	BRAF_mut,RB1_mut,KIAA1468_del	
